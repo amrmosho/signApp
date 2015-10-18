@@ -8,6 +8,8 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 <style name="signtheme" parent="AppTheme">
-    <item name="android:textColor">#f00</item>
+    <item name="android:windowBackground">@drawable/app_background</item>
+
+    <item name="android:textColor">#fff</item>
 </style>
 </resources>
